@@ -9,3 +9,5 @@ Chess made in python and pygame !
 ```Shell
 pip install - U pygame
 ``` 
+
+![Poster](Example.png)
